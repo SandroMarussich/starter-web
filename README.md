@@ -13,3 +13,7 @@ This repository is for showing how Git and GitHub work
 ## How to contribute
 
 3) Sample website with plenty of files for demos
+
+## Deployment
+
+4) Sample website with plenty of files for demos
